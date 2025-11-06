@@ -1,0 +1,15 @@
+{
+  "basic": {
+    "title": "NavSphere ",
+    "description": "NavSphere 是一个基于 Next.js 15 构建的现代化导航管理平台，专为个人和团队打造的书签管理和导航门户解决方案。通过 GitHub 作为数据存储后端，提供安全、可靠的导航数据管理体验",
+    "keywords": "NavSphere,工具,导航,AI"
+  },
+  "appearance": {
+    "logo": "https://raw.gitmirror.com/wangbin-blog/pic-resources/main/2024/10/avatar.jpg",
+    "favicon": "https://raw.gitmirror.com/wangbin-blog/pic-resources/main/2024/10/avatar.jpg",
+    "theme": "system"
+  },
+  "navigation": {
+    "linkTarget": "_blank"
+  }
+}
