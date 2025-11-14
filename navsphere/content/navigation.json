@@ -7,7 +7,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "3838e380-af60-409d-82c1-81147348f26c",
+          "title": "AI 编码",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1763112887412",
