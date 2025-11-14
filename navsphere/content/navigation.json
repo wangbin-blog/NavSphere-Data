@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1763113025787",
+      "title": "AI引擎",
+      "icon": "Search",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1763112887412",
       "title": "在线工具",
       "icon": "Cloud",
@@ -31,15 +40,6 @@
       "id": "1763113001836",
       "title": "开源项目",
       "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1763113025787",
-      "title": "AI引擎",
-      "icon": "Search",
       "description": "",
       "enabled": true,
       "items": [],
