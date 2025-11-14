@@ -15,6 +15,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "5975d8fb-1c3d-4ddd-ad21-48745d033994",
+          "title": "聊天问答",
+          "icon": "Building",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
