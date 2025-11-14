@@ -23,6 +23,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "99ce81e2-e131-4b67-b159-3e5c831036ec",
+          "title": "文本写作",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
