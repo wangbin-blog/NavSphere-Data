@@ -47,8 +47,8 @@
     },
     {
       "id": "1763113069036",
-      "title": "站长之家",
-      "icon": "FolderKanban",
+      "title": "站长工具",
+      "icon": "Network",
       "description": "",
       "enabled": true,
       "items": [],
