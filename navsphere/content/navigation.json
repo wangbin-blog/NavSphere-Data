@@ -176,6 +176,14 @@
               "href": "https://waf.uusec.com/#/?id=main",
               "description": "A industry-leading free, high-performance, AI and semantic technology web application and API security protection product",
               "icon": "/assets/favicon_1763183327327.ico"
+            },
+            {
+              "id": "item-1763183357711",
+              "enabled": true,
+              "title": "雷池 WAF | 下一代 Web 应用防火墙 | 免费使用",
+              "href": "https://waf-ce.chaitin.cn/",
+              "description": "一款足够简单、好用、强大的免费WAF。基于业界领先的语义分析检测技术，保护你的网站不受黑客攻击。",
+              "icon": "/assets/favicon_1763183350440.ico"
             }
           ]
         },
