@@ -110,7 +110,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "db7b9669-8f04-4030-894c-b085d6f89d96",
+          "title": "阅读软件",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1763113001836",
