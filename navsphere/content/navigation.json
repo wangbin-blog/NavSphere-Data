@@ -160,7 +160,16 @@
           "icon": "Shield",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1763183306076",
+              "enabled": true,
+              "title": "堡塔云WAF",
+              "href": "https://www.bt.cn/new/btwaf",
+              "description": "真正开源免费可商用的WAF防火墙，首个支持ARM国产系统的WAF防火墙，有超高自由度的自定义拦截规则和可灵活配置各种限制访问，有效防CC攻击、防恶意采集、防刷接口等常见攻击和黑客渗透测试行为，为您的业务网站保驾护航",
+              "icon": "/assets/favicon_1763183281028.png"
+            }
+          ]
         },
         {
           "id": "960eac91-35bf-475c-bb6d-544d3853fe10",
