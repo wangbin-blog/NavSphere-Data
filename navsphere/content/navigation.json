@@ -209,7 +209,16 @@
           "icon": "Flag",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1763183405048",
+              "enabled": true,
+              "title": "Docker: Accelerated Container Application Development",
+              "href": "https://www.docker.com/",
+              "description": "Docker is a platform designed to help developers build, share, and run container applications. We handle the tedious setup, so you can focus on the code.",
+              "icon": "/assets/favicon_1763183394915.png"
+            }
+          ]
         }
       ]
     }
