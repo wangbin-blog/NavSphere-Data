@@ -161,6 +161,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "960eac91-35bf-475c-bb6d-544d3853fe10",
+          "title": "运维工具",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
