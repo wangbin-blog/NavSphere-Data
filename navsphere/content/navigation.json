@@ -44,6 +44,15 @@
       "subCategories": []
     },
     {
+      "id": "1763182339470",
+      "title": "开发者工具",
+      "icon": "Box",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1763112963547",
       "title": "电脑工具",
       "icon": "LayoutList",
@@ -74,15 +83,6 @@
       "id": "1763113069036",
       "title": "站长工具",
       "icon": "Network",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1763182339470",
-      "title": "开发者工具",
-      "icon": "Box",
       "description": "",
       "enabled": true,
       "items": [],
