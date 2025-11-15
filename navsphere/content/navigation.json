@@ -224,7 +224,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1763184011389",
+              "enabled": true,
+              "title": "源仓库",
+              "href": "https://www.yckceo.sbs/",
+              "description": "",
+              "icon": "/assets/favicon_1763184000884.png"
+            }
+          ]
         },
         {
           "id": "55129ef6-8da0-4b5b-aa45-ffaac784e29b",
