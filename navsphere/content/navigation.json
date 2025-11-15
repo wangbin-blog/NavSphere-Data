@@ -118,6 +118,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "55129ef6-8da0-4b5b-aa45-ffaac784e29b",
+          "title": "视频软件",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
