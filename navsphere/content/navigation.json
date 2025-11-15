@@ -73,6 +73,14 @@
               "href": "https://dash.cloudflare.com/login",
               "description": "Log in to the Cloudflare dashboard. Make your websites, apps, and networks fast and secure. Build modern apps on our developer platform.",
               "icon": "/assets/favicon_1763184172263.ico"
+            },
+            {
+              "id": "item-1763184211745",
+              "enabled": true,
+              "title": "Push your ideas to the web | Netlify",
+              "href": "https://www.netlify.com/",
+              "description": "Build with AI or code, deploy instantly. One platform with everything you need to make real apps live.",
+              "icon": "/assets/favicon_1763184206086.ico"
             }
           ]
         },
