@@ -164,6 +164,14 @@
               "href": "https://rufus.ie/downloads/",
               "description": "",
               "icon": "/assets/favicon_1763183965865.png"
+            },
+            {
+              "id": "item-1763183985111",
+              "enabled": true,
+              "title": "balenaEtcher - Flash OS images to SD cards & USB drives",
+              "href": "https://etcher.balena.io/",
+              "description": "A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. Free and open source for makers around the world.",
+              "icon": "/assets/favicon_1763183980449.png"
             }
           ]
         },
