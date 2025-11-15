@@ -58,6 +58,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "8dbf1e23-413e-4e73-998d-95d622b33cf8",
+          "title": "知识库",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
