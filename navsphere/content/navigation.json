@@ -184,6 +184,14 @@
               "href": "https://waf-ce.chaitin.cn/",
               "description": "一款足够简单、好用、强大的免费WAF。基于业界领先的语义分析检测技术，保护你的网站不受黑客攻击。",
               "icon": "/assets/favicon_1763183350440.ico"
+            },
+            {
+              "id": "item-1763183378686",
+              "enabled": true,
+              "title": "SamWaf 网站防火墙",
+              "href": "https://doc.samwaf.com/",
+              "description": "SamWaf 网站防火墙",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=doc.samwaf.com"
             }
           ]
         },
