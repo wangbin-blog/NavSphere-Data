@@ -99,6 +99,14 @@
               "href": "https://www.xitongku.com/",
               "description": "MSDN系统库，免费为你提供我告诉你msdn原版纯净系统，原版win11，win10，win8/8.1，win7系统下载，原版office全系列下载与安装等服务",
               "icon": "/assets/favicon_1763183520456.ico"
+            },
+            {
+              "id": "item-1763183566067",
+              "enabled": true,
+              "title": "专注于Win10 - 更专注,才更出色",
+              "href": "https://iwin10.net/",
+              "description": "专注于Win10 - 更专注,才更出色",
+              "icon": "/assets/favicon_1763183547094.ico"
             }
           ]
         },
