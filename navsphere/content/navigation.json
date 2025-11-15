@@ -131,14 +131,6 @@
               "href": "https://www.newxitong.com/",
               "description": "访问 www.newxitong.com",
               "icon": "/assets/favicon_1763183612061.png"
-            },
-            {
-              "id": "item-1763183730993",
-              "enabled": true,
-              "title": "FirPE 维护系统 - FirPE Project",
-              "href": "https://firpe.cn/page-247",
-              "description": "",
-              "icon": "/assets/favicon_1763183719451.png"
             }
           ]
         },
@@ -148,21 +140,20 @@
           "icon": "Building",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "item-1763183709280",
-              "enabled": true,
-              "title": "deepin最新版本系统下载 – 深度科技社区",
-              "href": "https://www.deepin.org/zh/download/",
-              "description": "访问 www.deepin.org",
-              "icon": "/assets/favicon_1763183700158.png"
-            }
-          ]
+          "items": []
         },
         {
           "id": "10ad140b-a300-4fef-b9a8-cbf6468bd800",
           "title": "启动盘制作",
           "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "9930c856-37ba-445b-b538-59cc133f7bc9",
+          "title": "PE镜像",
+          "icon": "Database",
           "description": "",
           "enabled": true,
           "items": []
