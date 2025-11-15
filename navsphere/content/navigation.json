@@ -126,6 +126,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "f56b3abb-76e4-4ee3-b4c0-a4de9b36aabc",
+          "title": "音乐软件",
+          "icon": "Music",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
