@@ -81,6 +81,14 @@
               "href": "https://www.netlify.com/",
               "description": "Build with AI or code, deploy instantly. One platform with everything you need to make real apps live.",
               "icon": "/assets/favicon_1763184206086.ico"
+            },
+            {
+              "id": "item-1763184231724",
+              "enabled": true,
+              "title": "亚洲最佳CDN、边缘和安全解决方案 - Tencent EdgeOne",
+              "href": "https://edgeone.ai/zh",
+              "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
+              "icon": "/assets/favicon_1763184226138.ico"
             }
           ]
         },
