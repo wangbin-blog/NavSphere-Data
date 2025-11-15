@@ -140,7 +140,16 @@
           "icon": "Building",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1763183709280",
+              "enabled": true,
+              "title": "deepin最新版本系统下载 – 深度科技社区",
+              "href": "https://www.deepin.org/zh/download/",
+              "description": "访问 www.deepin.org",
+              "icon": "/assets/favicon_1763183700158.png"
+            }
+          ]
         },
         {
           "id": "10ad140b-a300-4fef-b9a8-cbf6468bd800",
