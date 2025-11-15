@@ -115,6 +115,14 @@
               "href": "https://hellowindows.cn/",
               "description": "HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。永久在线：www.hellowindows.cn",
               "icon": "/assets/favicon_1763183577539.png"
+            },
+            {
+              "id": "item-1763183596594",
+              "enabled": true,
+              "title": "NEXT, ITELLYOU",
+              "href": "https://next.itellyou.cn/",
+              "description": "",
+              "icon": "/assets/favicon_1763183592300.png"
             }
           ]
         },
