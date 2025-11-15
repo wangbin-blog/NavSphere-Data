@@ -123,6 +123,14 @@
               "href": "https://next.itellyou.cn/",
               "description": "",
               "icon": "/assets/favicon_1763183592300.png"
+            },
+            {
+              "id": "item-1763183618066",
+              "enabled": true,
+              "title": "专注于Win7 - 致力于做最好用的win7系统【吻妻官网】",
+              "href": "https://www.newxitong.com/",
+              "description": "访问 www.newxitong.com",
+              "icon": "/assets/favicon_1763183612061.png"
             }
           ]
         },
