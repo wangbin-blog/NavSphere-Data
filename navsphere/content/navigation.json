@@ -201,7 +201,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1763183424763",
+              "enabled": true,
+              "title": "1Panel - 现代化、开源的Linux服务器运维管理面板",
+              "href": "https://1panel.cn/",
+              "description": "1Panel - 现代化、开源的Linux服务器运维管理面板",
+              "icon": "/assets/favicon_1763183416055.png"
+            }
+          ]
         },
         {
           "id": "7d6eb281-4677-4cb7-a9ce-cf50ea4e735a",
