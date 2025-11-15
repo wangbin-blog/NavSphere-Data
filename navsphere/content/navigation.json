@@ -135,17 +135,17 @@
           ]
         },
         {
-          "id": "10ad140b-a300-4fef-b9a8-cbf6468bd800",
-          "title": "启动盘制作",
-          "icon": "FileText",
+          "id": "85bdf747-5948-423a-a98c-1c3dabf751ec",
+          "title": "Linux镜像",
+          "icon": "Building",
           "description": "",
           "enabled": true,
           "items": []
         },
         {
-          "id": "85bdf747-5948-423a-a98c-1c3dabf751ec",
-          "title": "Linux镜像",
-          "icon": "Building",
+          "id": "10ad140b-a300-4fef-b9a8-cbf6468bd800",
+          "title": "启动盘制作",
+          "icon": "FileText",
           "description": "",
           "enabled": true,
           "items": []
