@@ -169,6 +169,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "7d6eb281-4677-4cb7-a9ce-cf50ea4e735a",
+          "title": "建站工具",
+          "icon": "Flag",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
