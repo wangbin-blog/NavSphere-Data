@@ -164,6 +164,14 @@
               "href": "https://www.hotpe.top/",
               "description": "HotPE 工具箱                 现已更新到 2.8 版本，全新 Win11 内核                 真正的纯净、无广告、无劫持、无后门                 内",
               "icon": "/assets/favicon_1763183822602.ico"
+            },
+            {
+              "id": "item-1763183855148",
+              "enabled": true,
+              "title": "微PE工具箱 - 超好用的装机维护工具",
+              "href": "https://www.wepe.com.cn/",
+              "description": "访问 www.wepe.com.cn",
+              "icon": "/assets/favicon_1763183849217.png"
             }
           ]
         }
