@@ -209,6 +209,14 @@
               "href": "https://1panel.cn/",
               "description": "1Panel - 现代化、开源的Linux服务器运维管理面板",
               "icon": "/assets/favicon_1763183416055.png"
+            },
+            {
+              "id": "item-1763183480045",
+              "enabled": true,
+              "title": "宝塔linux面板,一键安装LAMP/LNMP/SSL/Tomcat",
+              "href": "https://www.bt.cn/new/product_linux.html",
+              "description": "访问 www.bt.cn",
+              "icon": "/assets/favicon_1763183473208.png"
             }
           ]
         },
