@@ -84,7 +84,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "6a7509e4-d3cf-46a9-ac69-e7867035e418",
+          "title": "Windows镜像",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1763112985795",
