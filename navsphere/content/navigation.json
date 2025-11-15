@@ -57,7 +57,16 @@
           "icon": "Cloud",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1763184141484",
+              "enabled": true,
+              "title": "Vercel",
+              "href": "https://vercel.com/wangbins-projects",
+              "description": "",
+              "icon": "/assets/favicon_1763184100305.png"
+            }
+          ]
         },
         {
           "id": "8dbf1e23-413e-4e73-998d-95d622b33cf8",
