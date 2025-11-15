@@ -131,6 +131,14 @@
               "href": "https://www.newxitong.com/",
               "description": "访问 www.newxitong.com",
               "icon": "/assets/favicon_1763183612061.png"
+            },
+            {
+              "id": "item-1763183730993",
+              "enabled": true,
+              "title": "FirPE 维护系统 - FirPE Project",
+              "href": "https://firpe.cn/page-247",
+              "description": "",
+              "icon": "/assets/favicon_1763183719451.png"
             }
           ]
         },
