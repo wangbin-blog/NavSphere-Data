@@ -172,6 +172,14 @@
               "href": "https://www.wepe.com.cn/",
               "description": "访问 www.wepe.com.cn",
               "icon": "/assets/favicon_1763183849217.png"
+            },
+            {
+              "id": "item-1763183921790",
+              "enabled": true,
+              "title": "FirPE 维护系统 - FirPE Project",
+              "href": "https://firpe.cn/page-247",
+              "description": "",
+              "icon": "/assets/favicon_1763183916510.png"
             }
           ]
         }
