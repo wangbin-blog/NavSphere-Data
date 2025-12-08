@@ -41,7 +41,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "61e1b75f-adfe-4a56-94d3-d7440d1082fa",
+          "title": "下载工具",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1763182339470",
