@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- SEO 优化 -->
+    <title>KDown | 百度网盘在线解析 - 度盘高速下载</title>
+    <meta name="description" content="KDown是一款永久免费的百度网盘解析工具，通过先进的解析技术实现百度网盘高速下载。核心功能包括：① 免登录批量解析；② 文件夹一键解析；③ 多线程高速下载；④ 直链提取服务。支持所有百度网盘分享链接，有效解决百度网盘下载速度慢的问题，致力成为最好用的百度网盘加速下载工具。" />
+    <meta name="keywords" content="KDown,百度网盘解析,度盘解析,百度网盘不限速,百度网盘加速,百度网盘下载,度盘高速下载,百度网盘直链,百度网盘破解,网盘提速,百度网盘下载速度慢破解方法,免费网盘解析,在线网盘解析" />
+    <!-- 搜索引擎指引 -->
+    <meta name="robots" content="index,follow" />
+    <!-- 移动端优化 -->
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="email=no" />
+    <meta name="theme-color" content="rgba(0, 0, 0, 0)" />
+    <!-- Open Graph 标签 -->
+    <meta property="og:title" content="KDown | 百度网盘在线解析 - 度盘高速下载" />
+    <meta property="og:description" content="KDown是一款永久免费的百度网盘解析工具，通过先进的解析技术实现百度网盘高速下载。核心功能包括：① 免登录批量解析；② 文件夹一键解析；③ 多线程高速下载；④ 直链提取服务。" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://kdown.moiu.cn" />
+    <meta property="og:image" content="https://image-cdn.moiu.cn/MoIu_CDN/2025/08/17/68a1695b4c1ae.png" />
+    <meta property="og:site_name" content="KDown | 百度网盘在线解析 - 度盘高速下载" />
+    <meta property="product:brand" content="KDown | 百度网盘在线解析 - 度盘高速下载" />
+    <meta property="product:price:amount" content="0" />
+    <meta property="product:price:currency" content="CNY" />
+    <!-- Twitter Card 标签 -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="KDown | 百度网盘在线解析 - 度盘高速下载" />
+    <meta name="twitter:description" content="KDown是一款永久免费的百度网盘解析工具，通过先进的解析技术实现百度网盘高速下载。核心功能包括：① 免登录批量解析；② 文件夹一键解析；③ 多线程高速下载；④ 直链提取服务。" />
+    <meta name="twitter:image" content="https://image-cdn.moiu.cn/MoIu_CDN/2025/08/17/68a1695b4c1ae.png" />
+    <!-- 结构化数据 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "KDown",
+      "alternateName": "KDown百度网盘解析",
+      "url": "https://kdown.moiu.cn",
+      "logo": "https://image-cdn.moiu.cn/MoIu_CDN/2025/08/17/68a1695b4c1ae.png",
+      "description": "KDown是一款永久免费的百度网盘解析工具，通过先进的解析技术实现百度网盘高速下载。",
+      "sameAs": [
+        "https://kdown.moiu.cn"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "KDown"
+      },
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Web",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "CNY"
+      }
+    }
+    </script>
+    <script defer src="https://collect.moiu.cn/script.js" data-website-id="0b2e4ac9-e13f-4573-a629-727f161c6846"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5031809567178334"
+     crossorigin="anonymous"></script>
+    <script type="module" crossorigin src="/assets/js/index-fa4f8689.js"></script>
+    <link rel="stylesheet" href="/assets/css/index-898a7e3c.css">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+  </head>
+  <body>
+    <div id="app"></div>
+    
+  </body>
+</html>
