@@ -376,6 +376,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "ce943497-6c55-4ff5-a6d4-b0110bc06ff9",
+          "title": "下载",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
