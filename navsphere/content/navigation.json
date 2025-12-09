@@ -74,6 +74,14 @@
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=jdec.app"
             }
           ]
+        },
+        {
+          "id": "ffa53476-1ead-4018-9ec7-03188cb2f1fc",
+          "title": "编程工具",
+          "icon": "Code",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
