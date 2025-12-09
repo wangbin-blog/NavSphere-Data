@@ -352,7 +352,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "57e3f29f-6ec5-461c-8247-7c5162c76b97",
+          "title": "音乐",
+          "icon": "Music",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1763113069036",
