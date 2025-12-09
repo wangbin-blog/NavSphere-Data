@@ -47,6 +47,14 @@
               "href": "https://comate.baidu.com/zh/chat?mode=AGENT",
               "description": "Comate是百度基于文心大模型研发的编程辅助工具，提供自动代码生成、单元测试生成、注释生成、研发智能问答等能力，支持上百种编程语言、多种IDE。",
               "icon": "/assets/favicon_1765269027487.ico"
+            },
+            {
+              "id": "item-1765269149064",
+              "enabled": true,
+              "title": "v0 by Vercel",
+              "href": "https://v0.app/",
+              "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
+              "icon": "/assets/favicon_1765269074552.png"
             }
           ]
         },
