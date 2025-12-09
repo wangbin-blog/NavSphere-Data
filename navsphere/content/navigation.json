@@ -56,14 +56,6 @@
               "href": "https://kdown.moiu.cn/free/",
               "description": "KDown-Free是一款免费的百度网盘解析工具，无需登录即可获取高速下载链接。支持批量下载、文件管理，安全可靠，多端支持。",
               "icon": "/assets/favicon_1765155876917.ico"
-            },
-            {
-              "id": "item-1765183975728",
-              "enabled": true,
-              "title": "JDec - Java Decompiler Online",
-              "href": "https://jdec.app/",
-              "description": "JDec is a online Java decompiler that provides a fast way to decompile JAR files. Instant access to the files, no need to wait. Also supports downloading decompiled java code.",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=jdec.app"
             }
           ]
         },
@@ -80,6 +72,14 @@
               "href": "https://www.shenmeapp.com/",
               "description": "With our Apk Analyzer Online tool, easily analyze and optimize your Android APKs for improved performance and functionality. Get detailed insights and recommendations to enhance your app&#39;s performance and user experience.",
               "icon": "/assets/favicon_1765179363062.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1765183975728",
+              "title": "JDec - Java Decompiler Online",
+              "href": "https://jdec.app/",
+              "description": "JDec is a online Java decompiler that provides a fast way to decompile JAR files. Instant access to the files, no need to wait. Also supports downloading decompiled java code.",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=jdec.app",
               "enabled": true
             }
           ]
