@@ -485,6 +485,14 @@
               "icon": "/assets/favicon_1763183394915.png"
             }
           ]
+        },
+        {
+          "id": "975dc50c-c67c-4e2c-a323-7d6551ba61a6",
+          "title": "资源站",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
