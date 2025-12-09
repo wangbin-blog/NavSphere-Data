@@ -14,7 +14,16 @@
           "icon": "Edit",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1765268773707",
+              "enabled": true,
+              "title": "小浣熊家族 Raccoon - AI 智能助手 - 商汤科技",
+              "href": "https://xiaohuanxiong.com/",
+              "description": "Raccoon - Another Comprehensive CO-pilOt Navigator ｜ Raccoon是基于商汤自研大语言模型的智能助手，包含代码助手、办公助手，满足用户代码编写、数据分析、编程学习等各类需求。",
+              "icon": "/assets/favicon_1765268727844.svg"
+            }
+          ]
         },
         {
           "id": "5975d8fb-1c3d-4ddd-ad21-48745d033994",
