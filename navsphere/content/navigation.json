@@ -39,6 +39,14 @@
               "href": "https://www.qianwen.com/",
               "description": "千问是阿里通义千问大模型打造的AI对话助手，通义千问支持问答、写作、代码、翻译、录音、PPT创作、文档处理、音视频速读。",
               "icon": "/assets/favicon_1765268762174.png"
+            },
+            {
+              "id": "item-1765269071329",
+              "enabled": true,
+              "title": "文心快码 | 代码问答",
+              "href": "https://comate.baidu.com/zh/chat?mode=AGENT",
+              "description": "Comate是百度基于文心大模型研发的编程辅助工具，提供自动代码生成、单元测试生成、注释生成、研发智能问答等能力，支持上百种编程语言、多种IDE。",
+              "icon": "/assets/favicon_1765269027487.ico"
             }
           ]
         },
