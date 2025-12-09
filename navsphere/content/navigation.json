@@ -58,14 +58,6 @@
               "icon": "/assets/favicon_1765155876917.ico"
             },
             {
-              "id": "item-1765179457949",
-              "enabled": true,
-              "title": "Java Class 反编译",
-              "href": "https://www.shenmeapp.com/",
-              "description": "With our Apk Analyzer Online tool, easily analyze and optimize your Android APKs for improved performance and functionality. Get detailed insights and recommendations to enhance your app&#39;s performance and user experience.",
-              "icon": "/assets/favicon_1765179363062.png"
-            },
-            {
               "id": "item-1765183975728",
               "enabled": true,
               "title": "JDec - Java Decompiler Online",
@@ -81,7 +73,16 @@
           "icon": "Code",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1765179457949",
+              "title": "Java Class 反编译",
+              "href": "https://www.shenmeapp.com/",
+              "description": "With our Apk Analyzer Online tool, easily analyze and optimize your Android APKs for improved performance and functionality. Get detailed insights and recommendations to enhance your app&#39;s performance and user experience.",
+              "icon": "/assets/favicon_1765179363062.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "298c8c0d-8eb6-45ea-9748-60015663fa57",
