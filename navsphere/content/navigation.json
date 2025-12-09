@@ -82,6 +82,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "298c8c0d-8eb6-45ea-9748-60015663fa57",
+          "title": "图片工具",
+          "icon": "Image",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
