@@ -55,6 +55,14 @@
               "href": "https://v0.app/",
               "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
               "icon": "/assets/favicon_1765269074552.png"
+            },
+            {
+              "id": "item-1765269298650",
+              "enabled": true,
+              "title": "Same",
+              "href": "https://same.new/",
+              "description": "same.new - 专注于开发者的UI克隆与代码生成 same.new 的核心定位非常明确：一个为开发者设计的 UI 克隆工具。它的工作流程很直观：用户输入一个网址，AI 会分析该页面的布局、组件和样式，并将其转换为代码。",
+              "icon": "/assets/favicon_1765269253292.png"
             }
           ]
         },
