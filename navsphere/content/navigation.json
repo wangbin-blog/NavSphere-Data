@@ -106,6 +106,14 @@
               "href": "https://gh-proxy.huhaha.vip/",
               "description": "在线重定向Github链接，支持API、Git Clone、Releases、Archive、Gist、Raw 文件代理加速下载服务",
               "icon": "/assets/favicon_1765333366992.png"
+            },
+            {
+              "id": "item-1765333471456",
+              "enabled": true,
+              "title": "GitHub 文件加速代理 - GitHub Proxy",
+              "href": "https://github.akams.cn/",
+              "description": "GitHub 文件加速代理服务，支持 Git Clone、Releases、Raw、Archive、Gist等资源加速下载，解决 GitHub 文件访问慢的问题。",
+              "icon": "/assets/favicon_1765333421407.png"
             }
           ]
         },
