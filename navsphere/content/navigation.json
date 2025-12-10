@@ -433,7 +433,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1765347998566",
+              "enabled": true,
+              "title": "talebook/talebook",
+              "href": "https://github.com/talebook/talebook",
+              "description": "一个简单好用的个人书库. Contribute to talebook/talebook development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1765347928787.png"
+            }
+          ]
         },
         {
           "id": "ce943497-6c55-4ff5-a6d4-b0110bc06ff9",
