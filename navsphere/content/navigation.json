@@ -441,6 +441,14 @@
               "href": "https://github.com/talebook/talebook",
               "description": "一个简单好用的个人书库. Contribute to talebook/talebook development by creating an account on GitHub.",
               "icon": "/assets/favicon_1765347928787.png"
+            },
+            {
+              "id": "item-1765372681281",
+              "enabled": true,
+              "title": "reader",
+              "href": "https://github.com/hectorqin/reader/blob/master/doc.md",
+              "description": "阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️   - reader/doc.md at master · hectorqin/reader",
+              "icon": "/assets/favicon_1765372653736.png"
             }
           ]
         },
