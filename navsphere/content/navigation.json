@@ -484,6 +484,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "ccad64c2-7df8-45b6-b690-b4e84d13e8e0",
+          "title": "搜索",
+          "icon": "Search",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
