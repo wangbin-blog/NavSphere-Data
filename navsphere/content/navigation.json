@@ -433,6 +433,14 @@
               "href": "https://github.com/lyswhut/lx-music-mobile",
               "description": "一个基于 React native 开发的音乐软件. Contribute to lyswhut/lx-music-mobile development by creating an account on GitHub.",
               "icon": "/assets/favicon_1765419727141.png"
+            },
+            {
+              "id": "item-1765419813554",
+              "enabled": true,
+              "title": "wzh15802/lxmusic",
+              "href": "https://github.com/wzh15802/lxmusic",
+              "description": "支持洛雪的部分音源；支持MusicFree的音源. Contribute to wzh15802/lxmusic development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1765419761908.png"
             }
           ]
         },
