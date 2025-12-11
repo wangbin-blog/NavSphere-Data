@@ -425,6 +425,14 @@
               "href": "https://github.com/lyswhut/lx-music-desktop",
               "description": "一个基于 electron 的音乐软件. Contribute to lyswhut/lx-music-desktop development by creating an account on GitHub.",
               "icon": "/assets/favicon_1765416418012.png"
+            },
+            {
+              "id": "item-1765419783177",
+              "enabled": true,
+              "title": "lyswhut/lx-music-mobile",
+              "href": "https://github.com/lyswhut/lx-music-mobile",
+              "description": "一个基于 React native 开发的音乐软件. Contribute to lyswhut/lx-music-mobile development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1765419727141.png"
             }
           ]
         },
