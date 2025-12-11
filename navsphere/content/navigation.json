@@ -441,6 +441,14 @@
               "href": "https://github.com/FongMi/Release",
               "description": "Contribute to FongMi/Release development by creating an account on GitHub.",
               "icon": "/assets/favicon_1765416008769.png"
+            },
+            {
+              "id": "item-1765416186357",
+              "enabled": true,
+              "title": "o0HalfLife0o/TVBoxOSC",
+              "href": "https://github.com/o0HalfLife0o/TVBoxOSC",
+              "description": "TvBoxOSC 视频播放器",
+              "icon": "/assets/favicon_1765416121087.png"
             }
           ]
         },
