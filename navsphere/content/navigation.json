@@ -491,6 +491,14 @@
               "href": "https://github.com/hslr-s/sun-panel",
               "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。 - hslr-s/sun-panel",
               "icon": "/assets/favicon_1765414670595.png"
+            },
+            {
+              "id": "item-1765415839775",
+              "enabled": true,
+              "title": "tianyaxiang/NavSphere:",
+              "href": "https://github.com/tianyaxiang/NavSphere",
+              "description": "NavSphere： 一个基于 Github 存储的网址导航程序支持部署至cloudflare，一键部署至 Vercel，数据存储在 Github，零成本搭建一个网站导航！ - tianyaxiang/NavSphere",
+              "icon": "/assets/favicon_1765415781864.png"
             }
           ]
         },
