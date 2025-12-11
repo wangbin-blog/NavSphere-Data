@@ -499,6 +499,14 @@
               "href": "https://github.com/tianyaxiang/NavSphere",
               "description": "NavSphere： 一个基于 Github 存储的网址导航程序支持部署至cloudflare，一键部署至 Vercel，数据存储在 Github，零成本搭建一个网站导航！ - tianyaxiang/NavSphere",
               "icon": "/assets/favicon_1765415781864.png"
+            },
+            {
+              "id": "item-1765415867277",
+              "enabled": true,
+              "title": "xjh22222228/nav",
+              "href": "https://github.com/xjh22222228/nav",
+              "description": "发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website - xjh22222228/nav",
+              "icon": "/assets/favicon_1765415811717.png"
             }
           ]
         },
