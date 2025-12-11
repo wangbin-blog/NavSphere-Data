@@ -483,7 +483,16 @@
           "icon": "Flag",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1765414733154",
+              "enabled": true,
+              "title": "hslr-s/sun-panel",
+              "href": "https://github.com/hslr-s/sun-panel",
+              "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。 - hslr-s/sun-panel",
+              "icon": "/assets/favicon_1765414670595.png"
+            }
+          ]
         },
         {
           "id": "ccad64c2-7df8-45b6-b690-b4e84d13e8e0",
