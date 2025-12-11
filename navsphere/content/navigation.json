@@ -417,7 +417,16 @@
           "icon": "Music",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1765416472076",
+              "enabled": true,
+              "title": "lyswhut/lx-music-desktop: 一个基于 electron 的音乐软件",
+              "href": "https://github.com/lyswhut/lx-music-desktop",
+              "description": "一个基于 electron 的音乐软件. Contribute to lyswhut/lx-music-desktop development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1765416418012.png"
+            }
+          ]
         },
         {
           "id": "6bef5a6e-6982-434e-901c-bfee9f523150",
