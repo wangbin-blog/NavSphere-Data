@@ -457,6 +457,14 @@
               "href": "https://github.com/scovis/TVBox",
               "description": "一个开源无广告的TVBox源，一个仓库全搞定。. Contribute to scovis/TVBox development by creating an account on GitHub.",
               "icon": "/assets/favicon_1765416156491.png"
+            },
+            {
+              "id": "item-1765416279396",
+              "enabled": true,
+              "title": "youhunwl/TVAPP: 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！ ✅ TVBox/影视仓等影音壳接口配置源。",
+              "href": "https://github.com/youhunwl/TVAPP",
+              "description": "收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 - youhunwl/TVAPP",
+              "icon": "/assets/favicon_1765416228901.png"
             }
           ]
         },
