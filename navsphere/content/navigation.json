@@ -425,7 +425,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1765415928388",
+              "enabled": true,
+              "title": "katelya77/KatelyaTV",
+              "href": "https://github.com/katelya77/KatelyaTV",
+              "description": "一个基于MoonTV(LunaTV)二次开发的项目。新项目：https://github.com/Decohererk/DecoTV - katelya77/KatelyaTV",
+              "icon": "/assets/favicon_1765415865722.png"
+            }
+          ]
         },
         {
           "id": "b2c57d8b-2439-42f0-9f45-46a95fa69067",
