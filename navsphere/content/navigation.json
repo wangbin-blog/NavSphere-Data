@@ -433,6 +433,14 @@
               "href": "https://github.com/katelya77/KatelyaTV",
               "description": "一个基于MoonTV(LunaTV)二次开发的项目。新项目：https://github.com/Decohererk/DecoTV - katelya77/KatelyaTV",
               "icon": "/assets/favicon_1765415865722.png"
+            },
+            {
+              "id": "item-1765416061182",
+              "enabled": true,
+              "title": "FongMi/Release",
+              "href": "https://github.com/FongMi/Release",
+              "description": "Contribute to FongMi/Release development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1765416008769.png"
             }
           ]
         },
