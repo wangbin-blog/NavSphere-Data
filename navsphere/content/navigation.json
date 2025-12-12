@@ -224,6 +224,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "bba95002-f2d9-4593-8b17-24818b8b0651",
+          "title": "反编译工具",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
