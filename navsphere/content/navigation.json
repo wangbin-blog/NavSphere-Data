@@ -589,6 +589,14 @@
               "href": "https://github.com/xjh22222228/nav",
               "description": "发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website - xjh22222228/nav",
               "icon": "/assets/favicon_1765415811717.png"
+            },
+            {
+              "id": "item-1765778005691",
+              "enabled": true,
+              "title": "helloxz/onenav: 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。",
+              "href": "https://github.com/helloxz/onenav?tab=readme-ov-file",
+              "description": "使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。 - helloxz/onenav",
+              "icon": "/assets/favicon_1765777951773.png"
             }
           ]
         },
