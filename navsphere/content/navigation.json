@@ -399,7 +399,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1765942534562",
+              "enabled": true,
+              "title": "mabDc/eso: 亦搜，亦看，亦闻 manga&novel reader, audio&video player in one app developed by flutter",
+              "href": "https://github.com/mabDc/eso",
+              "description": "亦搜，亦看，亦闻  manga&amp;novel reader, audio&amp;video player in one app developed by flutter - mabDc/eso",
+              "icon": "/assets/favicon_1765942473481.png"
+            }
+          ]
         },
         {
           "id": "f56b3abb-76e4-4ee3-b4c0-a4de9b36aabc",
