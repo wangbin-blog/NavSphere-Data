@@ -180,6 +180,14 @@
               "href": "https://www.xinnai.cyou/",
               "description": "辛奈API接口平台提供免费稳定快速的多领域API调用平台，涵盖综合服务（夸克热搜、微视热搜、快递查询、历史今天、文字转语音等，文字转语音支持40+音色）、音乐资源（酷我音乐免费会员歌曲获取、汽水音乐等）、静态/动态表情包（双重阴影头像、敲黑板、毛毛虫系列等）、视频/网盘解析（快手去水印、微视视频解析、123网盘直链解析、蓝奏云无需密码解析等），多数接口支持公开免费调用，同时提供天气预报等特色服务，满足多样化API调用需求。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.xinnai.cyou"
+            },
+            {
+              "id": "item-1765954645592",
+              "enabled": true,
+              "title": "番茄『小说』-小尘API - 数据接口调用服务平台、平台稳定、快速、 API 接口服务",
+              "href": "https://api.xcvts.cn/doc/xiaoshuo/fanqie.html",
+              "description": "小尘API,是觅知小尘自用API数据接口调用服务平台 - 我们致力于为用户提供稳定、快速的免费API数据接口服务。",
+              "icon": "/assets/favicon_1765954593045.ico"
             }
           ]
         }
