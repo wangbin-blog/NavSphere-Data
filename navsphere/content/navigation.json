@@ -164,7 +164,16 @@
           "icon": "Link",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1765954587925",
+              "enabled": true,
+              "title": "稳定API",
+              "href": "https://api.xingchenfu.xyz/",
+              "description": "访问 api.xingchenfu.xyz",
+              "icon": "/assets/favicon_1765954529332.png"
+            }
+          ]
         }
       ]
     },
