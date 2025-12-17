@@ -157,6 +157,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "7aae337e-d59a-4cac-be05-9304179b6ddb",
+          "title": "开放API",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
