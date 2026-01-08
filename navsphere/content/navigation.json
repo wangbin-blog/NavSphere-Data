@@ -322,6 +322,14 @@
               "href": "https://www.newxitong.com/",
               "description": "访问 www.newxitong.com",
               "icon": "/assets/favicon_1763183612061.png"
+            },
+            {
+              "id": "item-1767838591838",
+              "enabled": true,
+              "title": "Tiny11 » Built with Tiny11 Builder [Direct Download]",
+              "href": "https://tiny11.net/#download-tiny11builder",
+              "description": "Download Tiny11, a lightweight Windows 11 build crafted with Tiny11 Builder. A fast, debloated version designed for older PCs and smooth performance.",
+              "icon": "/assets/favicon_1767838507359.png"
             }
           ]
         },
